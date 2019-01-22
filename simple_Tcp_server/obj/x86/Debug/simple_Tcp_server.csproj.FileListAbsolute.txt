@@ -1,0 +1,10 @@
+C:\Users\Asif\documents\visual studio 2010\Projects\simple_Tcp_server\simple_Tcp_server\bin\Debug\simple_Tcp_server.exe
+C:\Users\Asif\documents\visual studio 2010\Projects\simple_Tcp_server\simple_Tcp_server\bin\Debug\simple_Tcp_server.pdb
+C:\Users\Asif\documents\visual studio 2010\Projects\simple_Tcp_server\simple_Tcp_server\obj\x86\Debug\simple_Tcp_server.exe
+C:\Users\Asif\documents\visual studio 2010\Projects\simple_Tcp_server\simple_Tcp_server\obj\x86\Debug\simple_Tcp_server.pdb
+D:\project\simple_Tcp_server\simple_Tcp_server\obj\x86\Debug\simple_Tcp_server.exe
+D:\project\simple_Tcp_server\simple_Tcp_server\obj\x86\Debug\simple_Tcp_server.pdb
+D:\project\simple_Tcp_server\simple_Tcp_server\bin\Debug\simple_Tcp_server.exe
+D:\project\simple_Tcp_server\simple_Tcp_server\bin\Debug\simple_Tcp_server.pdb
+D:\project\simple_Tcp_server\simple_Tcp_server\obj\x86\Debug\simple_Tcp_server.csprojResolveAssemblyReference.cache
+C:\Users\Asif\Documents\Visual Studio 2010\Projects\simple_Tcp_server\simple_Tcp_server\obj\x86\Debug\ResolveAssemblyReference.cache
